@@ -17,12 +17,6 @@ SET FOREIGN_KEY_CHECKS = 0;
 
 
 
--- ----------------------------
--- Records of t_message_user
--- ----------------------------
-INSERT INTO `t_message_user` VALUES (1, 1, 1, b'1', '2019-09-07 06:59:59', '2019-09-07 07:06:50', NULL);
-INSERT INTO `t_message_user` VALUES (2, 2, 1, b'0', '2021-08-12 13:54:34', NULL, NULL);
-INSERT INTO `t_message_user` VALUES (3, 3, 1, b'0', '2021-08-12 13:55:45', NULL, NULL);
 
 -- ----------------------------
 -- Table structure for t_role
